@@ -2,10 +2,10 @@
 
 ## if语句
 单条件判断：
-
+'''python
 if expression:
   expr_true_suite
-  
+ '''
 多条件判断：
 
 if not warn and (system_load>=10):
